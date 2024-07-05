@@ -1,0 +1,13 @@
+git init
+git config --global user.name "your Name"
+git config --global user.email "email"
+git branch -M main
+git remote add origin https://github.com/Vtiwari048/kartoos_online.git
+
+create file in kartoos
+
+git status
+git add .
+git status
+git commit -m "hdgfjgd"
+git push origin main
